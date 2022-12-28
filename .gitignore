@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# hardhat buils directories
+cache/
+artifacts/
+
+package-lock.json

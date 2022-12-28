@@ -1,0 +1,27 @@
+{
+  "name": "hardhat-alchemy-polygon",
+  "version": "1.0.0",
+  "description": "Hardhat-Alchemy-Polygon Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioMCruz/Hardhat-Alchemy-Polygon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioMCruz/Hardhat-Alchemy-Polygon/issues"
+  },
+  "homepage": "https://github.com/JulioMCruz/Hardhat-Alchemy-Polygon#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
